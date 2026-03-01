@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: rgb(26, 19, 19);
+  padding: 30px;
+  border-radius: 12px;
+  width: 600px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.search-box {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.error {
+  color: red;
+}
+.card h4 {
+  font-size: 14px;
+  color: #b63939;
+  margin: 5px 0;
+}
