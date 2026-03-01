@@ -8,7 +8,7 @@ It shows both **city local time** (from API) and **user current time**, along wi
 1. Search weather for **any city**
 2. Display **current temperature, humidity, wind speed, and weather description**
 3. Show **Weather Time** (city local) and **Current Time** (user system)
-4. **Next hour forecast** using OpenWeather One Call API
+4.
 5. Responsive **modern card design**
 6. Frontend-only, **Vercel / Netlify deploy ready**
 
